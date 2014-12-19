@@ -1,6 +1,6 @@
 # @file: Makefile
 # @brief:
-# @author: YoungJoo.Kim <http://superlinuxer.com>
+# @author: YoungJoo.Kim <vozlt@vozlt.com>
 # @version:
 # @date: 20060924
 
