@@ -1,7 +1,7 @@
 /**
  * @file: ipmac.c
  * @brief: The packet sniffer to capturing just ip and mac address.
- * @author: YoungJoo.Kim <vozlt@vozlt.com>
+ * @author: YoungJoo.Kim <vozltx@gmail.com>
  * @version:
  * @date: 20060924
  * 
